@@ -1,5 +1,5 @@
 SUBMODULE_GITURL = git@github.com:akinsbo/mbshow-backend-video-service.git
-FILE_PATH_TO_SUBMODULE = backend/services
+FILE_PATH_TO_SUBMODULE = backend/services/mbshow-backend-video-service
 ###--------------------------------------------------------------------------###
 # git
 ####------------------------------------------------------------------------####

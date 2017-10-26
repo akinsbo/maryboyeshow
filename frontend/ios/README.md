@@ -1,1 +1,1 @@
-# Backend Services for MaryBoye Show
+# iOS Services for MaryBoye Show

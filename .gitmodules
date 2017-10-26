@@ -1,0 +1,3 @@
+[submodule "backend/services/mbshow-backend-video-service"]
+	path = backend/services/mbshow-backend-video-service
+	url = git@github.com:akinsbo/mbshow-backend-video-service.git
